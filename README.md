@@ -1,5 +1,5 @@
 # sarvendra_demo
 This is my first repository.
 <br>
-Author - (Sarvendra singh Thakur)
+Author - Sarvendra (gl bajaj)
 
